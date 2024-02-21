@@ -41,9 +41,9 @@ border-bottom: 1px solid #e7e9fc;
 
 .container {
     width: 1158px;
-    margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
+    margin: 0 auto;
 
 }
 
@@ -310,12 +310,12 @@ margin-bottom: 8px;
  padding-top: 120px;
  padding-bottom: 120px;
  margin: 15px ;
- width: calc((100%-48)/3);
 
 }
 
 .portfolio-list-items {
 background-color: #ffffff;
+width: calc((100%-48) / 3);
 }
 
 .portfolio-list {
@@ -344,7 +344,7 @@ background-color: #ffffff;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
- width: calc((100%-48)/3);
+ width: calc((100%-48) / 3);
 }
 
 .annex-items {
