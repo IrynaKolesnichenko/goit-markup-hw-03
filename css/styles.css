@@ -334,17 +334,13 @@ margin-bottom: 8px;
     row-gap: 48px;
 }
 
-.portfolio-list-items {
-    background-color: #ffffff;
-
-    width: calc((100%-72px)/3);
-}
 
 .portfolio-list-items {
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
  width: calc((100%-72px)/3);
+ background-color: #ffffff;
 }
 
 .annex-items {
