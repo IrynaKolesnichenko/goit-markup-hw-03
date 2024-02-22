@@ -335,10 +335,7 @@ margin-bottom: 8px;
 }
 
 .portfolio-list-items {
-    flex-direction: row;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    background-color: #ffffff;
+    
    width: calc((100%-48px)/3);
 }
 
